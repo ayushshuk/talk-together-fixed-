@@ -1,0 +1,27 @@
+body{
+    background-color: crimson;
+}
+.about{
+    background-color: white;
+    color: black;
+    padding: 50px;
+    text-align: center;
+    width: 50%;
+    height: 80vh;
+    margin-left: 350px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+.pre{
+    font-size: 15px;
+    margin-top: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.back{
+    text-align: start;
+    text-decoration: none;
+    color: #000000;
+    font-weight: bolder;
+    font-size: larger;
+}

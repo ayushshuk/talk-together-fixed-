@@ -1,0 +1,54 @@
+body{
+    background-color: crimson;
+  }
+
+
+.container{
+    background-color: white;
+    position: absolute;
+    margin-left: 200px;
+    border-radius: 20px;
+    width: 70%;
+    margin-top: 150px;
+    height: 150%;
+}
+.container h1{
+    color: black;
+    font-family: fantasy;
+    font-weight: lighter;
+    margin-left: 300px;
+    font-size: 50px;
+}
+.link{
+    color: white;
+    text-decoration: none;
+    padding: 30px;
+    transition: 1s;
+}
+.box{
+    margin-left: 450px;
+    margin-top: 50px;
+    transition: 1s;
+}
+
+.link:hover{
+    color: black;
+    background-color: white;
+    transition: 0.8s;
+}
+.container hr{
+    width: 50%;
+}
+.context{
+    font-weight: bold;
+    font-size: large;
+}
+.span{
+    color: red;
+}
+.talk{
+    color: white;
+    background-color: red;
+    padding: 25px;
+    text-decoration: none;
+}
